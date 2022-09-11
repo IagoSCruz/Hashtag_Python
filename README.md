@@ -22,3 +22,6 @@ if condicao:
     outra coisa a mais
     outra coisa mais ainda
 else:
+    uma coisa
+    uma coisa a mais
+    coisa final
