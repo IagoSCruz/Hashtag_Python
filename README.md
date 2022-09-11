@@ -25,3 +25,12 @@ else:
     uma coisa
     uma coisa a mais
     coisa final
+
+## Exemplo
+
+Regra de fundo de investimentos é:
+
+- O fundo se compromete a entregar no mínimo 5% de retorno ao ano
+- caso o fundo não consiga entregar os 5% de retorno, ele não pode cobrar taxa dos seus investidores
+- caso o fundo consiga entregar mais de 5% de retorno, ele irá cobrar 2% de taxa dos seus investidores
+- Caso o fundo consiga mais de 20% de retorno, ele irá cobrar 4% de taxa dos seus investidores
