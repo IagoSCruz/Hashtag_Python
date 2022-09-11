@@ -34,3 +34,16 @@ Regra de fundo de investimentos é:
 - caso o fundo não consiga entregar os 5% de retorno, ele não pode cobrar taxa dos seus investidores
 - caso o fundo consiga entregar mais de 5% de retorno, ele irá cobrar 2% de taxa dos seus investidores
 - Caso o fundo consiga mais de 20% de retorno, ele irá cobrar 4% de taxa dos seus investidores
+
+## Acréscimo do elif:
+
+> E se temos mais do que um caso de sim e não?
+
+```
+if condicao:
+    o que fazer se a condição 1 for verdadeira
+elif condicao_2:
+    o que fazer se a condição 1 for falsa e a condição 2 for verdadeira
+else:
+    o que fazer se a condição 1 e a condição 2 forem falsas
+
